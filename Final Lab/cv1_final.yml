@@ -1,4 +1,4 @@
-name: cv1_final
+name: cv1_final2
 channels:
   - pytorch
   - menpo
